@@ -3,10 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://Alexander-Nestor-Bergmann.github.io/contact/</loc>
-  </url>
-  
-  <url>
     <loc>https://Alexander-Nestor-Bergmann.github.io/publication_types/2/</loc>
     <lastmod>2019-05-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -254,6 +250,10 @@
   <url>
     <loc>https://Alexander-Nestor-Bergmann.github.io/categories/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://Alexander-Nestor-Bergmann.github.io/contact/</loc>
   </url>
   
   <url>
