@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Recent &amp; Upcoming Talks on Alexander Nestor-Bergmann</title>
+    <title>Selected Talks on Alexander Nestor-Bergmann</title>
     <link>https://Alexander-Nestor-Bergmann.github.io/talk/</link>
-    <description>Recent content in Recent &amp; Upcoming Talks on Alexander Nestor-Bergmann</description>
+    <description>Recent content in Selected Talks on Alexander Nestor-Bergmann</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 25 Apr 2019 15:47:04 +0100</lastBuildDate>
@@ -17,6 +17,15 @@
       <pubDate>Thu, 25 Apr 2019 15:47:04 +0100</pubDate>
       
       <guid>https://Alexander-Nestor-Bergmann.github.io/talk/bamc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>STRESS AND DISORDER IN A CONFLUENT EPITHELIUM</title>
+      <link>https://Alexander-Nestor-Bergmann.github.io/talk/mittag_leffler/</link>
+      <pubDate>Tue, 06 Nov 2018 15:47:04 +0100</pubDate>
+      
+      <guid>https://Alexander-Nestor-Bergmann.github.io/talk/mittag_leffler/</guid>
       <description></description>
     </item>
     
