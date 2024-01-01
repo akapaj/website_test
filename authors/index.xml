@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on Alexander Nestor-Bergmann</title>
@@ -6,17 +6,89 @@
     <description>Recent content in Authors on Alexander Nestor-Bergmann</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 May 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://Alexander-Nestor-Bergmann.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Alexander G Fletcher</title>
+      <link>https://Alexander-Nestor-Bergmann.github.io/authors/alexander-g-fletcher/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://Alexander-Nestor-Bergmann.github.io/authors/alexander-g-fletcher/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Alexander Nestor-Bergmann</title>
       <link>https://Alexander-Nestor-Bergmann.github.io/authors/alexander-nestor-bergmann/</link>
-      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       
       <guid>https://Alexander-Nestor-Bergmann.github.io/authors/alexander-nestor-bergmann/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Benedicte} Sanson</title>
+      <link>https://Alexander-Nestor-Bergmann.github.io/authors/benedicte-sanson/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://Alexander-Nestor-Bergmann.github.io/authors/benedicte-sanson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Guy Blanchard</title>
+      <link>https://Alexander-Nestor-Bergmann.github.io/authors/guy-blanchard/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://Alexander-Nestor-Bergmann.github.io/authors/guy-blanchard/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jocelyn Etienne</title>
+      <link>https://Alexander-Nestor-Bergmann.github.io/authors/jocelyn-etienne/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://Alexander-Nestor-Bergmann.github.io/authors/jocelyn-etienne/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nathan Hervieux</title>
+      <link>https://Alexander-Nestor-Bergmann.github.io/authors/nathan-hervieux/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://Alexander-Nestor-Bergmann.github.io/authors/nathan-hervieux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bénédicte Sanson</title>
+      <link>https://Alexander-Nestor-Bergmann.github.io/authors/b%C3%A9n%C3%A9dicte-sanson/</link>
+      <pubDate>Thu, 05 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://Alexander-Nestor-Bergmann.github.io/authors/b%C3%A9n%C3%A9dicte-sanson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Guy B Blanchard</title>
+      <link>https://Alexander-Nestor-Bergmann.github.io/authors/guy-b-blanchard/</link>
+      <pubDate>Thu, 05 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://Alexander-Nestor-Bergmann.github.io/authors/guy-b-blanchard/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tara M Finegan</title>
+      <link>https://Alexander-Nestor-Bergmann.github.io/authors/tara-m-finegan/</link>
+      <pubDate>Thu, 05 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://Alexander-Nestor-Bergmann.github.io/authors/tara-m-finegan/</guid>
       <description></description>
     </item>
     
@@ -251,7 +323,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://Alexander-Nestor-Bergmann.github.io/authors/admin/</guid>
-      <description>I am a Herchel Smith Postdoctoral Research Fellow at the University of Cambridge. My main interests lie in biomechanics. I use a mixture of mathematical modelling and computational simulations to derive a physical understanding of biological systems. A fundamental aspect of this work is extensive interaction between “wet” and “dry” biologists. Details on specific projects can be found below.</description>
+      <description>I&#39;m a mathematician, particularly interested in understanding non-equilibrium and living systems. My current focus is in quantitative research and building Unsigned Research, a digital-asset management company. I was previously an academic, most recently a Research Fellow at the University of Cambridge, where my primary research was in developing interpretable and mathematically robust biophysical models of developing tissues.
+I&#39;m available for mathematical consulting in the areas of quantitative research, academia and data science.</description>
     </item>
     
   </channel>
