@@ -1,29 +1,85 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
     <loc>https://Alexander-Nestor-Bergmann.github.io/publication_types/2/</loc>
-    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Alexander-Nestor-Bergmann.github.io/publication/nestor-2022-acam/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Alexander-Nestor-Bergmann.github.io/authors/alexander-g-fletcher/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://Alexander-Nestor-Bergmann.github.io/authors/alexander-nestor-bergmann/</loc>
-    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://Alexander-Nestor-Bergmann.github.io/</loc>
-    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://Alexander-Nestor-Bergmann.github.io/authors/</loc>
-    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Alexander-Nestor-Bergmann.github.io/authors/benedicte-sanson/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Alexander-Nestor-Bergmann.github.io/authors/guy-blanchard/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Alexander-Nestor-Bergmann.github.io/authors/jocelyn-etienne/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Alexander-Nestor-Bergmann.github.io/authors/nathan-hervieux/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Alexander-Nestor-Bergmann.github.io/publication_types/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Alexander-Nestor-Bergmann.github.io/publication/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Alexander-Nestor-Bergmann.github.io/authors/b%C3%A9n%C3%A9dicte-sanson/</loc>
+    <lastmod>2019-12-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Alexander-Nestor-Bergmann.github.io/authors/guy-b-blanchard/</loc>
+    <lastmod>2019-12-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Alexander-Nestor-Bergmann.github.io/authors/tara-m-finegan/</loc>
+    <lastmod>2019-12-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Alexander-Nestor-Bergmann.github.io/publication/finegan-2019/</loc>
+    <lastmod>2019-12-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -34,30 +90,16 @@
   <url>
     <loc>https://Alexander-Nestor-Bergmann.github.io/authors/keith-brennan/</loc>
     <lastmod>2019-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://Alexander-Nestor-Bergmann.github.io/authors/megan-moruzzi/</loc>
-    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://Alexander-Nestor-Bergmann.github.io/publication_types/</loc>
-    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://Alexander-Nestor-Bergmann.github.io/publication/</loc>
     <lastmod>2019-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://Alexander-Nestor-Bergmann.github.io/authors/sarah-woolner/</loc>
     <lastmod>2019-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -78,25 +120,21 @@
   <url>
     <loc>https://Alexander-Nestor-Bergmann.github.io/authors/georgina-a-stooke-vaughan/</loc>
     <lastmod>2019-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://Alexander-Nestor-Bergmann.github.io/authors/georgina-k-goddard/</loc>
     <lastmod>2019-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://Alexander-Nestor-Bergmann.github.io/authors/oliver-e-jensen/</loc>
     <lastmod>2019-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://Alexander-Nestor-Bergmann.github.io/authors/tobias-starborg/</loc>
     <lastmod>2019-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -117,73 +155,61 @@
   <url>
     <loc>https://Alexander-Nestor-Bergmann.github.io/authors/alpha-s.-yap/</loc>
     <lastmod>2018-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://Alexander-Nestor-Bergmann.github.io/authors/bipul-r.-acharya/</loc>
     <lastmod>2018-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://Alexander-Nestor-Bergmann.github.io/authors/estelle-gauquelin/</loc>
     <lastmod>2018-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://Alexander-Nestor-Bergmann.github.io/authors/guillermo-a.-gomez/</loc>
     <lastmod>2018-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://Alexander-Nestor-Bergmann.github.io/authors/kinga-duszyc/</loc>
     <lastmod>2018-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://Alexander-Nestor-Bergmann.github.io/authors/oliver-e.-jensen/</loc>
     <lastmod>2018-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://Alexander-Nestor-Bergmann.github.io/authors/philippe-marcq/</loc>
     <lastmod>2018-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://Alexander-Nestor-Bergmann.github.io/authors/shafali-gupta/</loc>
     <lastmod>2018-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://Alexander-Nestor-Bergmann.github.io/authors/srikanth-budnar/</loc>
     <lastmod>2018-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://Alexander-Nestor-Bergmann.github.io/authors/xuan-liang/</loc>
     <lastmod>2018-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://Alexander-Nestor-Bergmann.github.io/authors/zev-bryant/</loc>
     <lastmod>2018-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://Alexander-Nestor-Bergmann.github.io/authors/emma-johns/</loc>
     <lastmod>2018-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -194,7 +220,6 @@
   <url>
     <loc>https://Alexander-Nestor-Bergmann.github.io/authors/georgina-goddard/</loc>
     <lastmod>2018-04-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -205,7 +230,6 @@
   <url>
     <loc>https://Alexander-Nestor-Bergmann.github.io/publication_types/7/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -216,13 +240,11 @@
   <url>
     <loc>https://Alexander-Nestor-Bergmann.github.io/authors/georgina-a.-stooke-vaughan/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://Alexander-Nestor-Bergmann.github.io/authors/georgina-k.-goddard/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -238,13 +260,11 @@
   <url>
     <loc>https://Alexander-Nestor-Bergmann.github.io/authors/georgina-stooke-vaughan/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://Alexander-Nestor-Bergmann.github.io/authors/oliver-eskild-jensen/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -260,7 +280,6 @@
   <url>
     <loc>https://Alexander-Nestor-Bergmann.github.io/authors/oliver-jensen/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -274,7 +293,6 @@
   
   <url>
     <loc>https://Alexander-Nestor-Bergmann.github.io/categories/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -283,7 +301,6 @@
   
   <url>
     <loc>https://Alexander-Nestor-Bergmann.github.io/tags/</loc>
-    <priority>0</priority>
   </url>
   
 </urlset>
